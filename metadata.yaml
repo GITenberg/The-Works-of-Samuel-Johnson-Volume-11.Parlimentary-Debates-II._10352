@@ -1,0 +1,27 @@
+_repo: The-Works-of-Samuel-Johnson-Volume-11.Parlimentary-Debates-II._10352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain. Parliament. House of Commons -- History -- 18th century'
+- GITenberg
+title: 'The Works of Samuel Johnson, Volume 11.
+
+  Parlimentary Debates II.'
+url: http://www.gutenberg.org/ebooks/10352
